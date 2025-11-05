@@ -12,22 +12,22 @@ body {
 
 @font-face {
   font-family: 'Titulos';
-  src: url('../imagenes/Tipografías/Títulos/dincondensed.ttf') format('truetype');
+  src: url('../imagenes/Tipografias/Títulos/dincondensed.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Cuerpo';
-  src: url('../imagenes/Tipografías/Cuerpos_de_texto/helvetica.ttf') format('truetype');
+  src: url('../imagenes/Tipografias/Cuerpos_de_texto/helvetica.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Festival';
-  src: url('../imagenes/Tipografías/Cuerpos_de_texto/helvetica-light-587ebe5a59211.ttf') format('truetype');
+  src: url('../imagenes/Tipografias/Cuerpos_de_texto/helvetica-light-587ebe5a59211.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Oblique';
-  src: url('../imagenes/Tipografías/Cuerpos_de_texto/Helvetica-Oblique.ttf') format('truetype');
+  src: url('../imagenes/Tipografias/Cuerpos_de_texto/Helvetica-Oblique.ttf') format('truetype');
 }
 
 #navbar {
@@ -911,7 +911,7 @@ footer {
 
 #copyright {
   font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: helvetica;
   text-align: center;
   font-size: 14px;
   line-height: 1.5;
